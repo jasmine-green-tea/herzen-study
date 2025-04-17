@@ -1,0 +1,16 @@
+﻿version: "3.8"  # Use a valid compose version
+services:
+  db:
+    image: mcr.microsoft.com/mssql/server:latest
+    ports:
+      - "1438:1437"  # Map host port 1434 to container port 1433
+    environment:
+      ACCEPT_EULA: "Y"  # Must be "Y" to accept the license terms
+      SA_PASSWORD: "str"  # Replace with your own strong password
+      MSSQL_PID: "Express"  # Optional: Specify edition (Developer, Express, etc.)
+    volumes:
+      - sql_data:/var/opt/mssql
+    restart: unless-stopped  # Recommended for database containers
+
+volumes:
+  sql_data:  # Declare the named volume
