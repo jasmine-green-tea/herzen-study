@@ -18,43 +18,51 @@
   accent-color: rgb(103, 181, 103);
 }
 
-.task-row {
-  display: flex;
-
-}
-
 .todo-text {
   width: 24.4em;
+  color: #555;
 }
 .date-picker-input {
   padding: 0.5em;
   border: 1px solid #ccc;
   border-radius: 4px;
+  width: 200px;
+  height: 2em;
+  margin-left: 1em;
 }
 
 .group-header {
   color: #555;
   border-bottom: 1px solid #eee;
   padding-bottom: 0.5em;
-  margin-top: 1em;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
 }
 
 .todo-group {
-  margin-bottom: 1.5em;
+  margin-bottom: 2em;
 }
-.date-picker-input {
+
+.input-text {
   padding: 0.5em;
   border: 1px solid #ccc;
   border-radius: 4px;
+  width: 300px;
 }
 
-.group-header {
-  color: #555;
-  border-bottom: 1px solid #eee;
-  padding-bottom: 0.5em;
-  margin-top: 1em;
+.completed-task {
+  color: #888;
 }
 
-.todo-group {
-  margin-bottom: 1.5em;
+.completion-time {
+  font-size: 0.8em;
+  color: #666;
+  font-style: italic;
+  margin-left: 0.5em;
+}
+
+.task-row {
+  display: flex;
+  align-items: center;
+  transition: all 0.3s ease;
 }
