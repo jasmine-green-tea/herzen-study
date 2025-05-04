@@ -1,3 +1,4 @@
 # herzen-study
-web labs
- lab 89 - done
+ lab 89 - done/n
+ lab 2 - done/n
+ lab4 - done
