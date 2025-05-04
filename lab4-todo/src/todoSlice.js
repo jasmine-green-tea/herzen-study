@@ -7,8 +7,9 @@ const todoSlice = createSlice ({
         addTodo: (state, action) => {
             const newTodo = {
                 id: Date.now(),
-                text: action.payload,
+                text: action.payload.text,
                 completed: false,
+                dueDate: action.payload.dueDate || null
             };
             state.push(newTodo);
         },

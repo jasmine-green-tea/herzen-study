@@ -26,3 +26,35 @@
 .todo-text {
   width: 24.4em;
 }
+.date-picker-input {
+  padding: 0.5em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.group-header {
+  color: #555;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.5em;
+  margin-top: 1em;
+}
+
+.todo-group {
+  margin-bottom: 1.5em;
+}
+.date-picker-input {
+  padding: 0.5em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.group-header {
+  color: #555;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.5em;
+  margin-top: 1em;
+}
+
+.todo-group {
+  margin-bottom: 1.5em;
+}
