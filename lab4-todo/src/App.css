@@ -1,0 +1,28 @@
+.view {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-text {
+  /* margin-right: 1em; */
+  /* height: 2em;
+  width: 76em; */
+  height: 2em;
+  width: 40em;
+}
+
+.input-checkbox {
+  margin-right: 1vw;
+  width: 30px;
+  height: 30px;
+  accent-color: rgb(103, 181, 103);
+}
+
+.task-row {
+  display: flex;
+
+}
+
+.todo-text {
+  width: 24.4em;
+}
