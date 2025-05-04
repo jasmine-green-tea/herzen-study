@@ -1,0 +1,46 @@
+
+  code {
+    font-size: 1.2em;
+  }
+  
+  ul {
+    padding-inline-start: 20px;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: sans-serif;
+    margin: 20px;
+    padding: 0;
+  }
+  
+  .square {
+    height: 10vh;
+    width: 10vh;
+    margin-right: -1px;
+    margin-top: -1px;
+    border-radius: 0% !important;
+    background-color: white !important;
+    color: black !important;
+  }
+  
+  /* .board-row:after {
+    clear: both;
+    content: '';
+    display: table;
+  } */
+  
+  .status {
+    margin-bottom: 10px;
+  }
+  /* .game {
+    display: flex;
+    flex-direction: row;
+  } */
+  
+  .game-info {
+    margin-left: 20px;
+  }
