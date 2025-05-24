@@ -1,0 +1,12 @@
+D:\desktop\sem6\Web\labs\lab11-bookStore\BookStore.API\BookStore.Core\bin\Debug\net8.0\BookStore.Core.deps.json
+D:\desktop\sem6\Web\labs\lab11-bookStore\BookStore.API\BookStore.Core\bin\Debug\net8.0\BookStore.Core.dll
+D:\desktop\sem6\Web\labs\lab11-bookStore\BookStore.API\BookStore.Core\bin\Debug\net8.0\BookStore.Core.pdb
+D:\desktop\sem6\Web\labs\lab11-bookStore\BookStore.API\BookStore.Core\obj\Debug\net8.0\BookStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\desktop\sem6\Web\labs\lab11-bookStore\BookStore.API\BookStore.Core\obj\Debug\net8.0\BookStore.Core.AssemblyInfoInputs.cache
+D:\desktop\sem6\Web\labs\lab11-bookStore\BookStore.API\BookStore.Core\obj\Debug\net8.0\BookStore.Core.AssemblyInfo.cs
+D:\desktop\sem6\Web\labs\lab11-bookStore\BookStore.API\BookStore.Core\obj\Debug\net8.0\BookStore.Core.csproj.CoreCompileInputs.cache
+D:\desktop\sem6\Web\labs\lab11-bookStore\BookStore.API\BookStore.Core\obj\Debug\net8.0\BookStore.Core.sourcelink.json
+D:\desktop\sem6\Web\labs\lab11-bookStore\BookStore.API\BookStore.Core\obj\Debug\net8.0\BookStore.Core.dll
+D:\desktop\sem6\Web\labs\lab11-bookStore\BookStore.API\BookStore.Core\obj\Debug\net8.0\refint\BookStore.Core.dll
+D:\desktop\sem6\Web\labs\lab11-bookStore\BookStore.API\BookStore.Core\obj\Debug\net8.0\BookStore.Core.pdb
+D:\desktop\sem6\Web\labs\lab11-bookStore\BookStore.API\BookStore.Core\obj\Debug\net8.0\ref\BookStore.Core.dll
